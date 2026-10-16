@@ -1,4 +1,4 @@
-importt gps_service
+import gps_service
 
 MENU = {
     "pho": 50000,
